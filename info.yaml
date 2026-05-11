@@ -60,7 +60,7 @@ pinout:
   ua[2]: ""
   ua[3]: ""
   ua[4]: ""
-  ua[5]: "VREF - 1.2V bandgap reference voltage output"
+  ua[5]: "VRef" # 1.2V bandgap reference voltage output
 
 # Do not change!
 yaml_version: 6
