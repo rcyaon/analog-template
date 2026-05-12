@@ -12,9 +12,9 @@ The PTAT correction current is set by two BJTs biased at 8:1, producing $\Delta 
 
 $$V_{REF} = V_{BE} + (R2/R1) \cdot \Delta V_{BE}$$
 
-A PTAT curvature correction current is then injected to flatten the remaining log-term curvature.[^3]
+A PTAT curvature correction current is then injected to flatten the remaining log-term curvature.[^3] 
 
-Furthermore, the Brokaw topology suits SKY130's imprecise, low-β PNPs (β = 10–20) because accuracy depends on BJT matching rather than absolute device parameters. 
+Hence, the Brokaw topology suits SKY130's imprecise, low-β PNPs (β = 10–20) because accuracy depends on BJT matching rather than absolute device parameters. 
 
 [^1]: Brokaw — "A simple three-terminal IC bandgap reference," IEEE JSSC, 1974
 
